@@ -10,6 +10,13 @@ Name | Place | Profession
 Saina | Hyderabad | Badminton Player
 Messi | Barcelona | Soccer Player
 
+Add a colon to left, right or both sides of header row to change alignment of text.
+
+Name | Place | Profession   
+:---- | :----:| ----:   
+Saina | Hyderabad | Badminton Player
+Messi | Barcelona | Soccer Player
+
 #### Highlights
 
 * Add as many columns or rows.
