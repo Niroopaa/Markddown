@@ -1,21 +1,19 @@
 # Markddown
-Learning Markdown togethe
+Learning Markdown together
 
-# Lesson 1: Headings
-The headings are simplified. The icon hash # stands for a heading.   
-Simply increase the number of # to increase the levels of headings. 
+# Lesson 1: Introduction
+The document contains rules about how to use short codes to author a Markdown file and create repository in GitHub. 
 
-For example,   
-One # stands for heading level 1   
-Two ## stands for heading level 2
+The magical short codes:   
+#, *, _, `, -   
+Tabs   
+Spaces   
 
-Adding Headings:   
-Start the line with #   
-Press space   
-Type heading content
-
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
+Click on the following to learn more:
+1. {Headings
+2. Inline
+3. Lists
+4. Tables
+5. Codes
+6. Images or Videos
+7. Hyperlinks
