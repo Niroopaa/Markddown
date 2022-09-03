@@ -9,7 +9,7 @@ The magical short codes:
 Tabs   
 Spaces   
 
-Click on the following to learn more:
+Click on the following to learn:
 1. [Headings](UG/Getting_started/heading.md)
 2. [Inline](Working_with_markdown/../UG/Working_with_markdown/inline.md)
 3. [Lists](lists.md)
