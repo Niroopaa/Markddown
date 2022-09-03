@@ -1,4 +1,4 @@
-# Markddown
+# Markdown
 Learning Markdown together
 
 # Lesson 1: Introduction
@@ -10,8 +10,8 @@ Tabs
 Spaces   
 
 Click on the following to learn more:
-1. [Headings](heading.md)
-2. [Inline](inline.md)
+1. [Headings](UG/Getting_started/heading.md)
+2. [Inline](Working_with_markdown/../UG/Working_with_markdown/inline.md)
 3. [Lists](lists.md)
 4. [Tables](table.md)
 5. [Codes](codes.md)
